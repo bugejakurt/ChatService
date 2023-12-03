@@ -1,0 +1,5 @@
+@ChatService_HostAddress = http://localhost:5070
+
+GET {{ChatService_HostAddress}}/CreateSession
+
+###
