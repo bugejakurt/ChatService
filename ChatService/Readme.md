@@ -8,3 +8,7 @@ I dedicated around 6 hours in total for this test. Had I invested more time on i
 - Microservice architecture - As shown in the diagram, the best way for the system to handle chat messages is to have separate chat API and coordinator service.
   This brings seperation of concenrns and separate instance scalability, in case it's needed.
 - Instead of chat polling you can use web sockets or SingalR to keep the session alive and have a chat-like experience.
+
+I also commit a small test Powershell file which I used to spawn X number of sessions and keep them alive with continuous polling (every 1 sec): "ChatService.ps1".
+
+Thanks!
