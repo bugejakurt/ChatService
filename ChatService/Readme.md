@@ -1,4 +1,4 @@
-This is just a prototype to get the technical test working. It can be implemented much better with Kafka streams instead of Queues or Lists.
+This is just a prototype to get the technical project working. It can be implemented much better with Kafka streams instead of Queues or Lists.
 
 I dedicated around 6 hours in total for this test. Had I invested more time on it I would have done a much better job. Things that can be improved:
 
